@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @M00NLIG7
 - 👀 I’m interested in Cybersecurity and Computer Science
-- 🌱 I’m currently working towards my CEH
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
